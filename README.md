@@ -1,1 +1,1 @@
-# janitor
+# resistor
